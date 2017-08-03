@@ -10,6 +10,13 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
    - That about statement is… it could be better, but I like the way they're using the repo's wiki for the documentation. 👍
 * [Transpiling ES6](https://css-tricks.com/transpiling-es6/): ran through their Babel section just to see how it does things.
    - We end up in such weird places with the names of related / similar tools: Gulp, Brocoli, Brunch. Honestly.
+* [**heteroglossia**](https://en.wikipedia.org/wiki/Heteroglossia) from the phrase "a heteroglossic wonderland" (which goes straight on to [the band name list](https://github.com/dotsara/is-the-name/blob/master/README.md)).
+
+   The intro on this isn't as good as it could be, but I think this bit in the first section gets at the meat in heteroglossia (and provides support for the relationship to code switching):
+   
+   > Extending his argument, Bakhtin proposes that all languages represent a distinct point of view on the world, characterized by its own meaning and values. In this view, language is "shot through with intentions and accents" (1981: 324), and thus there are no neutral words. Even the most unremarkable statement possesses a taste, whether of a profession, a party, a generation, a place or a time. To Bakhtin, words do not exist until they are spoken, and that moment they are printed with the signature of the speaker.
+   >
+   > Bakhtin identifies the act of speech, or of writing, as a literary-verbal performance, one that requires speakers or authors to take a position, even if only by choosing the dialect in which they will speak.
 
 ---
 
