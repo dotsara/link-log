@@ -6,6 +6,11 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ### 31 July–04 August
 
+* [HTMLHint](https://github.com/yaniswang/HTMLHint/wiki/About): saw it in a commit for a big upcoming project.
+   - That about statement is… it could be better, but I like the way they're using the repo's wiki for the documentation. 👍
+   
+---
+
 * Google search: "github markdown code wrap"
    I've always hated that code blocks in Markdown with long lines scroll out of view; occasionally, I'll break them manually, but sometimes I'm saving code that I don't understand, so I'd rather _not_. Anyway, apparently it's not a thing. 🙄 Well, it's a thing with a browser extension, but it's not a built-in thing, yet.
    * [how to line wrap long lines inside markdown code blocks in github & gitlab issues? (StackOverflow)](https://stackoverflow.com/questions/41238148/how-to-line-wrap-long-lines-inside-markdown-code-blocks-in-githubgitlab)
