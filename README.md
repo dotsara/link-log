@@ -6,6 +6,15 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ### 31 July–04 August
 
+* Subaru's "pzev" badge on their vehicles (was behind one this morning on the way to work). Ah, "partial zero emissions vehicle".
+   - [What is a PZEV?](https://www.thoughtco.com/pzev-partial-zero-emissions-vehicle-85335)
+   
+      > PZEVs run on gasoline, yet offer extremely clean emissions with zero evaporative emissions.
+   - Origin story: California's zero emission vehicles mandate, PZEVs are a compromise (and hard to type correctly).
+   - Heh, one of the other sources I found was mostly a huffy rant about the California Air Resources Board, sooo no link for them.
+
+---
+
 * [HTMLHint](https://github.com/yaniswang/HTMLHint/wiki/About): saw it in a commit for a big upcoming project.
    - That about statement is… it could be better, but I like the way they're using the repo's wiki for the documentation. 👍
 * [Transpiling ES6](https://css-tricks.com/transpiling-es6/): ran through their Babel section just to see how it does things.
