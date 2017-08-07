@@ -4,6 +4,11 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 07–13 August
+
+* I always mix up which type of soil produces blue and pink hydrangeas, [Farmer's Almanac to the rescue](https://www.almanac.com/plant/hydrangea): low pH below 5.5 (acidic): blue; higher pH over 5.5 (more base): pink. (White flowered hydrangeas aren't affected by the soil's pH.)
+
+
 ### 31 July–04 August
 
 * Subaru's "pzev" badge on their vehicles (was behind one this morning on the way to work). Ah, "partial zero emissions vehicle".
