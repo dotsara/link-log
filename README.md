@@ -6,6 +6,13 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ### 07–13 August
 
+* _Boricua_: a Puerto Rican, especially one living in the United States. 
+   Listening to [Code Switch](http://www.npr.org/sections/codeswitch/2017/07/26/539368829/stretch-bobbito-on-race-hip-hop-and-belonging) last weekend, Bobbito reminded me I've heard this word a bunch of times (like in the middle of ["Jenny from the Block"](https://www.youtube.com/watch?v=dly6p4Fu5TE#t=3m5s)!) and always forget to look it up, but this time I remembered!
+   
+   Mystery solved! (:
+   
+--- 
+   
 * I always mix up which type of soil produces blue and pink hydrangeas, [Farmer's Almanac to the rescue](https://www.almanac.com/plant/hydrangea)! Low pH below 5.5 (acidic): blue; higher pH over 5.5 (more base): pink. (White flowered hydrangeas aren't affected by the soil's pH.)
 
 
