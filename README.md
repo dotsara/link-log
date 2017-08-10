@@ -6,6 +6,10 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ### 07–13 August
 
+* [Monument to the Third International (Tatlin's Tower)](https://en.wikipedia.org/wiki/Tatlin%27s_Tower): listening to an episode of [No Such Thing as a Fish](http://qi.com/podcast), this tower came up and I couldn't remember ever hearing about it or having seen it. The hosts on NSTAAF remarked on its double-helix design predating the discovery of DNA's structure by several decades, but what I find interesting is [this discussion about spirals](https://thecharnelhouse.org/2015/03/24/tatlins-tower/) and how they relate to/function as a metaphor for the repetition of capitalism. Huh! 
+
+---
+
 * _Boricua_: a Puerto Rican, especially one living in the United States. 
    Listening to [Code Switch](http://www.npr.org/sections/codeswitch/2017/07/26/539368829/stretch-bobbito-on-race-hip-hop-and-belonging) last weekend, Bobbito reminded me I've heard this word a bunch of times (like in the middle of ["Jenny from the Block"](https://www.youtube.com/watch?v=dly6p4Fu5TE#t=3m5s)!) and always forget to look it up, but this time I remembered!
    
@@ -52,3 +56,7 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 * **proprioception**: "…is the sense of the relative position of one's own parts of the body and strength of effort being employed in movement" ([Wikipedia](https://en.wikipedia.org/wiki/Proprioception)), from [Digging Deeper: Stretching](https://www.elitefts.com/education/rehab-recovery/digging-deeper-stretching/)
 * `pushInsteadOf`, `insteadOf` in a coworker's `~/.gitconfig`: https://git-scm.com/docs/git-config#git-config-urlltbasegtinsteadOf
    - I'm not sure I interact with open-source repos often enough for this to be useful for me, but still, nifty.
+   
+--- 
+
+* Is Donkey Kong a gorilla…? Turns out, no, an [ape-like creature](https://en.m.wikipedia.org/wiki/Donkey_Kong)
