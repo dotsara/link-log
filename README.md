@@ -6,6 +6,9 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ### 07–13 August
 
+* _permille_ ‰: I don't know how I've been a type nerd this long and never come across the permille, or indeed thought harder about the components of the word "per-_cent_" :flushed: Of course it only has one 0 in the divisor! Oy.
+
+   Came across it in [The Loveliest Living Fossil](https://www.typography.com/blog/the-loveliest-living-fossil) by Jonathan Hoefler.
 * [Monument to the Third International (Tatlin's Tower)](https://en.wikipedia.org/wiki/Tatlin%27s_Tower): listening to an episode of [No Such Thing as a Fish](http://qi.com/podcast), this tower came up and I couldn't remember ever hearing about it or having seen it. The hosts on NSTAAF remarked on its double-helix design predating the discovery of DNA's structure by several decades, but what I find interesting is [this discussion about spirals](https://thecharnelhouse.org/2015/03/24/tatlins-tower/) and how they relate to/function as a metaphor for the repetition of capitalism. Huh! 
 
 ---
