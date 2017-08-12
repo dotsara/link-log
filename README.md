@@ -6,6 +6,12 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ### 07–13 August
 
+* Welsh pronunciation guides (I'm knee-deep into the second season of [_Hinterland_](http://www.bbc.co.uk/programmes/b03sgfbz) and thought I'd look up a guide to help with all the signs popping up in the show. (I've heard Caernarfon pronounced tons of times on [_Secrets of Great British Castles_]() and but it takes a couple of seconds for my brain to spin up. Every time.)
+   - [Pronouncing Welsh Place Names …and their meaning](http://www.cyclingwales.co.uk/welsh.html) (Ha! "coed cwmglas" was in an episode I watched last night)
+   - [A guide to Welsh pronunciation](http://www.go4awalk.com/fell-facts/welsh-language-pronunciation.php)
+   
+---
+
 * cleaning silver… I know _that_ you can clean silver jewelry with tin foil, boiling water, and baking soda, but almost none of the articles & blog posts touting the technique explain why. 😩 Philadelphia Museum of Art to the rescue! [Hands-Free Silver "Polishing"](http://www.philamuseum.org/booklets/7_44_85_1.html?page=2)
 
    It's an electrochemical reaction doing the heavy lifting. The baking soda makes it easier for electrons to move between the silver & aluminum and the aluminum reduces the silver sufide (tarnish) back to silver and produces aluminum sulfide in the process. Why boiling water? Makes the whole process go faster! Nifty.
