@@ -4,6 +4,15 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 14-20 August
+
+* I was telling [Jason](@jgarber623) about the occasional game of 6 Degrees of [Ciarán Hinds](http://www.imdb.com/name/nm0001354/) that @tiffehr and I sometimes play. And he challenged me to go from Hinds to… **Carrot Top**. Honestly, I wasn't sure I'd be able to do it. But 5 minutes later… 😎
+
+   Carrot Top _The Aristocrats_ > Chris Rock _The Fresh Prince of Bel Air_ > Will Smith _Wild, Wild West_ > Kenneth Branagh _half the movies in his career_ > Emma Thompson _Harry Potter & the Deathly Hallows_ > Ciarán Hinds
+   
+   💥
+   
+   
 ### 07–13 August
 
 * Welsh pronunciation guides: I'm knee-deep into the second season of [_Hinterland_](http://www.bbc.co.uk/programmes/b03sgfbz) and decided to look up a guide to help with the signs in the show. (I've heard Caernarfon pronounced tons of times on [_Secrets of Great British Castles_ ](https://www.netflix.com/title/80095866) and but it takes a couple of seconds for my brain to spin up. Every time.)
