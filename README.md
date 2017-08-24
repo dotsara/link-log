@@ -4,6 +4,12 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 21-27 August
+
+_A bit of a light week because cross-country season started and now occupies a significant portion of my brain_
+
+* [portage](https://www.merriam-webster.com/dictionary/portage): _noun_ "the carrying of boats or goods overland from one body of water to another or around an obstacle (such as a rapids)" [Lori's post about an upcoming trip](https://www.instagram.com/p/BYJbDfOHsXf/?taken-by=theoriginal10cent) got me to look it up because I've never heard it in this context before. Neato! (We have Portage Bay in Seattle, but I never looked it up!) 🚣‍♀️
+
 ### 14-20 August
 
 * I was telling [Jason](@jgarber623) about the occasional game of 6 Degrees of [Ciarán Hinds](http://www.imdb.com/name/nm0001354/) that @tiffehr and I sometimes play. And he challenged me to go from Hinds to… **Carrot Top**. Honestly, I wasn't sure I'd be able to do it. But 5 minutes later… 😎
