@@ -4,6 +4,16 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 28 August-03 September
+
+_Cross-country season is back in full-swing, so my available brain power to remember to look up random things is rather diminished._
+
+* **starboard**, _n._ I know _that_ it's the right side (facing forward) of a ship, but I was always forgetting to look up the why.
+
+   > This side of the ship was so called with reference to the single side rudders used in early Germanic ships, which were typically suspended on the right side of the vessel (for comfortable use by a right-handed helmsman).
+   From the _Oxford English Dictionary_.
+
+
 ### 21-27 August
 
 _A bit of a light week because cross-country season started and now occupies a significant portion of my brain_
