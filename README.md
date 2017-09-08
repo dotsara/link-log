@@ -4,6 +4,14 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 04-10 September
+
+* [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status): you might think after so many years making my living via the Internet I know these by heart, but you would be _wrong_, friendo!
+   - [favorite code: `418: I'm a teapot`](https://tools.ietf.org/html/rfc2324)
+   
+      > Any attempt to brew coffee with a teapot should result in the error code "418 I'm a teapot". The resulting entity body MAY be short and stout.
+
+
 ### 28 August-03 September
 
 _Cross-country season is back in full-swing, so my available brain power to remember to look up random things is rather diminished._
