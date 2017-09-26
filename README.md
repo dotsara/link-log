@@ -4,6 +4,14 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 25 September-01 October
+
+* Who in the world would ban _Green Eggs and Ham_!?
+
+   Oh, China did it: [Banned Books Week: Green Eggs and Ham](https://www.nypl.org/blog/2013/09/24/banned-books-week-green-eggs-and-ham)
+* What _is_ happening when your ears "pop"? 
+
+   A-ha! [Pressure equalization](https://gizmodo.com/why-your-ears-pop-and-what-to-do-if-they-dont-505598950), that makes sense.
 ### 04-10 September
 
 * [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status): you might think after so many years making my living via the Internet I know these by heart, but you would be _wrong_, friendo!
