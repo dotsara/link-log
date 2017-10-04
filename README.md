@@ -4,6 +4,11 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 02-08 October
+
+* "aguanile": started listening to the [For Puerto Rico Por Puerto Rico](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVJYaFlGP5hP?si=c1mrxq3l) and had _no_ idea what the title of the Marc Anthony song, "Aguanile" meant (I mean, I _did_ know it's not pronounced "a-gwa-nyull", heh). Anyhow, I found what seems to be [a pretty good answer at spanishdict.com](http://www.spanishdict.com/answers/111008/from-the-marc-anthony-song-aguanile-word-im-asking-about-is-aguanile). Neato!
+
+   
 ### 25 September-01 October
 
 * Who in the world would ban _Green Eggs and Ham_!?
