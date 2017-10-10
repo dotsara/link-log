@@ -4,6 +4,14 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 09-15 October
+
+* Scylla & Charybdis: you'd think as a lit major (and a fan of the _Percy Jackson_ series!) these wouldn't be names I'd have to look up, but here we are, friends; here we are. So, today we learned that they're both sea monsters, [one on the rocks](http://www.theoi.com/Pontios/Skylla.html) (Scylla) and [one with a whirlpool](http://www.theoi.com/Pontios/Kharybdis.html) (Charybdis), and they stayed across from each other.
+   - what prompted me to look them up is this from _What Works for Women at Work_ by Joan C. Williams and Rachel Dempsey:
+   
+      > "Savvy is a threshold requirement for women. We have to be astute enough to tack back and forth, navigating between the Scylla of being "too feminine" (and so liked but not respected) and the Charybdis of being "too masculine" (and so respected but not liked)."
+      
+      
 ### 02-08 October
 
 * "aguanile": started listening to the [For Puerto Rico Por Puerto Rico](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVJYaFlGP5hP?si=c1mrxq3l) and had _no_ idea what the title of the Marc Anthony song, "Aguanile" meant (I mean, I _did_ know it's not pronounced "a-gwa-nyull", heh). Anyhow, I found what seems to be [a pretty good answer at spanishdict.com](http://www.spanishdict.com/answers/111008/from-the-marc-anthony-song-aguanile-word-im-asking-about-is-aguanile). Neato!
