@@ -4,6 +4,13 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 23-29 October
+
+* Why do we (Americans, anyway) pronouce "reveille" as "REH-va-lee"? Every time I see it, I hear it (in my head) the French way (guttural _r_ and all) and it takes a beat to remember the other way.
+   - [Oxford English Dictionary entry for _reveille_ (n)](http://www.oed.com.ezproxy.spl.org/view/Entry/164685?redirectedFrom=reveille#eid)
+   - [How to pronounce "reveille" in UK & US English](http://dictionary.cambridge.org/us/pronunciation/english/reveille)
+   - Conclusion: After 5 minutes' research, I've no idea why we say it the way we do outside the way pronounciations in US English migrate away from British English. (I like the UK version! "re-VELL-ee")
+
 ### 09-15 October
 
 * Scylla & Charybdis: you'd think as a lit major (and a fan of the _Percy Jackson_ series!) these wouldn't be names I'd have to look up, but here we are, friends; here we are. So, today we learned that they're both sea monsters, [one on the rocks](http://www.theoi.com/Pontios/Skylla.html) (Scylla) and [one with a whirlpool](http://www.theoi.com/Pontios/Kharybdis.html) (Charybdis), and they stayed across from each other.
@@ -25,6 +32,7 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 * What _is_ happening when your ears "pop"? 
 
    A-ha! [Pressure equalization](https://gizmodo.com/why-your-ears-pop-and-what-to-do-if-they-dont-505598950), that makes sense.
+   
 ### 04-10 September
 
 * [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status): you might think after so many years making my living via the Internet I know these by heart, but you would be _wrong_, friendo!
