@@ -4,6 +4,21 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 06-12 November
+
+* I've got a plan to make candles this season and I've noticed the trend toward (a) wooden wicks and (b) actively pointing out the use of soy wax, so… I'm reading up:
+   - I admit I didn't realize paraffin is / can be [petroleum-based](https://en.wikipedia.org/wiki/Paraffin_wax)
+   - Are paraffin wax candles dangerous? (apart from the fire hazard, that is)
+   
+      This [CNN article from 2009](http://www.cnn.com/2009/HEALTH/08/21/candles.air.pollution/index.html?_s=PM:HEALTH) is the most balanced take I've found so far. Balanced because it cites a [South Carolina State University study](https://www.scsu.edu/news_article.aspx?news_id=832) and doesn't hide or downplay that (a) there's still _some_ debate (as ever) and (b) it is possible to mitigate the accumulation of the unwanted chemicals.
+* In reading that SCSU study, the following made me curious:
+
+   > Massoudi’s research stems from a desire to address a possible public health concern, boost the American agricultural economy and promote sustainability.
+   
+   > The candles emissions study is funded by 1890 Research & Extension, a federal and state funded program that helps ensure SC State achieves its land-grant mission of improving the lives of limited resource individuals, families and communities through research, teaching and service.
+   - Background on [the 1890 Research and Extension Program](http://www.scsu.edu/1890/1890background.aspx)
+   - A little more [detail about the Second Morrill Act of 1890](https://en.wikipedia.org/wiki/Morrill_Land-Grant_Acts#Expansion), particularly aimed at the former Confederate states. "This act required each state to show that race was not an admissions criterion, or else to designate a separate land-grant institution for persons of color." I think I can be forgiven for being deeply sketpical on _this_ point at _that_ point in history, _however_. SCSU is an HBCU, so.
+   
 ### 23-29 October
 
 * Why do we (Americans, anyway) pronouce "reveille" as "REH-va-lee"? Every time I see it, I hear it (in my head) the French way (guttural _r_ and all) and it takes a beat to remember the other way.
