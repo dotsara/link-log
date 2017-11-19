@@ -9,7 +9,7 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 * My contribution to Friendsgiving on Thursday next is applesauce ([my favorite thing to make](https://www.americastestkitchen.com/recipes/364-simple-applesauce)) and a cocktail and _obviously_ I'm going to choose a gin cocktail and surprising precisely no one my first thought was: a French 75! 💕
    - [Behind the Drink: the French 75](https://www.liquor.com/articles/behind-the-drink-the-french-75/)
       * naturally, almost every recipe I've found today has slightly different amounts of each ingredient.
-   - I'm also thinking I'll "just" go with a [Bowie Knife](http://playboysfw.kinja.com/bowie-knife-a-pink-cocktail-for-all-you-manly-men-1532819388): partly because most people don't know it and partly because there's just 1 version of the recipe (from _Playboy_ of all places). 👩🏽‍🔬
+   - I'm also thinking I'll "just" go with a [Bowie Knife](http://playboysfw.kinja.com/bowie-knife-a-pink-cocktail-for-all-you-manly-men-1532819388): partly because most people don't know it and partly because there's just 1 version of the recipe (from _Playboy_ of all places). 👩🏽‍🔬
 
 ### 06-12 November
 
