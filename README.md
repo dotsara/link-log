@@ -4,6 +4,17 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 20-26 November
+
+* I'm working through the [ES6 for Everyone](https://github.com/wesbos/es6.io) course and in the answer file for the first exercise, it shows `Array.from(document.querySelectorAll('[data-time]'));`
+   - first up, `Array.from`--I think this might be the first time I'm seeing it? From MDN: "[The `Array.from()` method creates a new `Array` instance from an array-like or iterable object.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)). Cool! pass it a thing, get an array. Got it. 
+      * interestingly, my first pass at the same line was: `const videos = document.getElementsByTagName('li');` hilariously (to me), both return the exact same array-of-objects. Ha!
+   - next up… all the stuff available to `document`. I… I just don't know all these off the top of my head. We've been using [RubyMine](https://www.jetbrains.com/ruby/) at work, lately, and with all the hinting things turned on it's much less painful to find what's available, I like it. That said, I haven't seen `querySelectorAll` before!
+      * Oohhhh, so my version and the answer version aren't, in fact, returning the same array of objects. They just _look_ the same in Chrome's console. What the answer is returning is a `NodeList` ([MDN details](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)) and _actually_! seeing that `item` is a thing that you get with a `NodeList` helps me understand code further down in the answer file where it's using `item`. 
+            - I was super confused about the use of `item` because it hadn't been defined or instantiated and it looked like the singular thing you'd use in a loop, but where it's used doesn't _look_ like a loop *and* the thing (`const`) we're working on is called `items`. So 🤔. But now I think I got it. Woo!
+      * So I see why you'd use what's in the answer file: because you want what's available to a `NodeList`. Cool. 
+      * [Using querySelector on Elements](https://developer.rackspace.com/blog/using-querySelector-on-elements/): I'm… probably going to have to read that & mess around with it a few times. 
+
 ### 13-19 November
 
 * My contribution to Friendsgiving on Thursday next is applesauce ([my favorite thing to make](https://www.americastestkitchen.com/recipes/364-simple-applesauce)) and a cocktail and _obviously_ I'm going to choose a gin cocktail and surprising precisely no one my first thought was: a French 75! 💕
