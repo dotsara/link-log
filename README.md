@@ -14,7 +14,8 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
             - I was super confused about the use of `item` because it hadn't been defined or instantiated and it looked like the singular thing you'd use in a loop, but where it's used doesn't _look_ like a loop *and* the thing (`const`) we're working on is called `items`. So 🤔. But now I think I got it. Woo!
       * So I see why you'd use what's in the answer file: because you want what's available to a `NodeList`. Cool. 
       * [Using querySelector on Elements](https://developer.rackspace.com/blog/using-querySelector-on-elements/): I'm… probably going to have to read that & mess around with it a few times. 
-
+   - oh, also, I was wondering about where `item.dataset` comes from, but `data` set is just the collection of `data-` prefixed attributes on elements. Neat! I didn't realize they would get rolled up that way, but that's handy.
+  
 ### 13-19 November
 
 * My contribution to Friendsgiving on Thursday next is applesauce ([my favorite thing to make](https://www.americastestkitchen.com/recipes/364-simple-applesauce)) and a cocktail and _obviously_ I'm going to choose a gin cocktail and surprising precisely no one my first thought was: a French 75! 💕
