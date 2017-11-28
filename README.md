@@ -4,6 +4,16 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2017
 
+### 27 November-02 December
+
+* Nope! I was pretty wrong last week with my conclusions about how the `NodeList` was being used and that business about `item`. It hadn't clicked--until this week, watching the _rest_ of the exercises video where Wes walks through the solutions--that the way the chained methods are working is they're taking what all the arrow functions automatically return as their input and declaring variable names for them as they go. 
+
+
+   I mean, it seems pretty obvious when I say it like that. I understand how chained methods work, but I _wasn't_ thinking of this that way on my first trip through. Oof. 
+   
+   Well, I learned some stuff then and now. So. 
+
+
 ### 20-26 November
 
 * I'm working through the [ES6 for Everyone](https://github.com/wesbos/es6.io) course and in the answer file for the first exercise, it shows `Array.from(document.querySelectorAll('[data-time]'));`
