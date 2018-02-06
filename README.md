@@ -2,6 +2,17 @@
 
 I look stuff up all the time for lots of different reasons. I'm going to try to keep track of it. 
 
+## 2018
+
+### 04-10 February
+
+* My friend [Tiff](https://twitter.com/tifferh) has a tradition of keeping us updated on the comings and goings of the booze cruise and cruise ship traffic when she's with her family in Mexico. 
+   - [staysails](https://en.wikipedia.org/wiki/Staysail)
+   - mizzencourse: the lowest sail on the [mizzenmast](https://en.wiktionary.org/wiki/mizzenmast) (obviously!) 
+* segfaults, or [segmentation faults](https://en.wikipedia.org/wiki/Segmentation_fault), or When Things Go Terribly Wrong
+
+   I hang out in our `#tech-ops` channel at work because tech ops is not my purview, but Ben always provides lots of detail for historical record which turns out to be super useful for someone like me who likes to look things up. 🤓
+   
 ## 2017
 
 ### 27 November-02 December
