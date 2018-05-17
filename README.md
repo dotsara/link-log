@@ -2,8 +2,19 @@
 
 I look stuff up all the time for lots of different reasons. I'm going to try to keep track of it. 
 
+<!-- dates are Sunday to Saturday -->
+
 ## 2018
 
+### 13-19 May
+
+* Emails and tweets have been flying around about the [General Data Protection Regulation (GDPR)](https://www.eugdpr.org/) going into effect on 25 May 2018, so it's time to read up.
+   - Official site: https://eugpdr.org
+      * Ooooooh: 
+         > Arguably the biggest change to the regulatory landscape of data privacy comes with the extended jurisdiction of the GDPR, as it applies to all companies processing the personal data of data subjects residing in the Union, regardless of the company’s location. 
+   - [What is GDPR, and why should designers care?](https://www.fastcodesign.com/90171699/what-is-gdpr-and-why-should-designers-care) (via [@jgarber](https://twitter.com/jgarber/status/997158084463267846))
+   - [Wikipedia's GDPR entry](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+   
 ### 04-10 February
 
 * My friend [Tiff](https://twitter.com/tifferh) has a tradition of keeping us updated on the comings and goings of the booze cruise and cruise ship traffic when she's with her family in Mexico. 
