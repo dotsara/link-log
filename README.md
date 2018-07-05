@@ -6,6 +6,15 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2018
 
+### 01-07 July
+
+* I've been watching tennis for a number of years, but I don't know and haven't looked up what the Open Era is.
+   - [Britcannica.com : tennis : history, Professional and open tennis](https://www.britannica.com/sports/tennis#ref29707). 
+      Ah, so prior to 1968 there just weren't tournaments where professionals and amateurs could compete openly. 
+      
+      > Although the traditional tournament circuit was avowedly amateur, leading players were paid substantial guarantees “under the table” in addition to expenses. For more than four decades there was discussion of having “open” competition between amateurs and pros to end the hypocrisy of “shamateurism,” but proposals were always defeated by conservative elements within the International Lawn Tennis Federation (ILTF—later the ITF). 
+
+
 ### 13-19 May
 
 * Emails and tweets have been flying around about the [General Data Protection Regulation (GDPR)](https://www.eugdpr.org/) going into effect on 25 May 2018, so it's time to read up.
