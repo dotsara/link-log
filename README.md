@@ -6,6 +6,15 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2018
 
+### 22-29 July
+
+* **chondromalacia** Oh! Runner's knee. Ha. Full name: chondromalacia patella. That just rolls right off the tongue, doesn't it. [Info from Cedars-Sinai](https://www.cedars-sinai.edu/Patients/Health-Conditions/Chondromalacia.aspx)
+   > The patella is covered with a layer of smooth cartilage, which normally glides across the knee when the joint is bent. 
+   >
+   > The pain is caused by an irritation of the undersurface or patella of the kneecap as the kneecap rubs against one side of the knee joint, irritating the cartilage surface.
+   
+   Oof. Just reading that makes my teeth hurt. 
+   
 ### 01-07 July
 
 * I've been watching tennis for a number of years, but I don't know and haven't looked up what the Open Era is.
