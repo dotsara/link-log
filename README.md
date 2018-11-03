@@ -1,10 +1,16 @@
-# Stuff I looked up this week
+# Stuff I looked up this ~week~ month
 
 I look stuff up all the time for lots of different reasons. I'm going to try to keep track of it. 
 
 <!-- dates are Sunday to Saturday -->
 
 ## 2018
+
+
+### November
+
+* Why do I suddenly have to enter my SSH password every time I do something in Terminal with git/GitHub?
+   - Because in an update to Sierra the default behavior--defaulting to saving passwords in the Keychain--was reversed and now you must turn it on deliberately in the SSH config file. [OpenSSH updates in macOS 10.12.2](https://developer.apple.com/library/archive/technotes/tn2449/_index.html) (via [StackOverflow](https://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase#comment74279267_41576222))
 
 ### 22-29 July
 
