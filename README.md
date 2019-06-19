@@ -4,6 +4,12 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 <!-- dates are Sunday to Saturday -->
 
+## 2019
+
+### June
+
+* [The difference between `describe` and `context` in Rspec](http://lmws.net/describe-vs-context-in-rspec) (via coworker)
+
 ## 2018
 
 
