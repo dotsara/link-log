@@ -6,6 +6,10 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2019
 
+### July
+
+* Watching the 2019 Track & Field Outdoor Championships and I think this is the first time I've _watched_ the long-distance events and for the men's 10000m, the runner's started in 2 groups. I found [a little about _how_ these races start](https://www.liveabout.com/olympic-distance-running-rules-3258720#mntl-sc-block_1-0-12) (~65% of the field in one group, the rest in another ahead of them) but not _why_. 🤔
+
 ### June
 
 * [The difference between `describe` and `context` in Rspec](http://lmws.net/describe-vs-context-in-rspec) (via coworker)
