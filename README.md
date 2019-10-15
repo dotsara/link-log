@@ -8,6 +8,7 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ### October
 
+* Difference(s) between `.forEach` and `.map` in Javascript. The crucial bit is this: `.forEach` doesn't return anything, `.map` returns a new array. They both let you do something to each item in an array, but only one gives back.
 * The difference between postfix and prefix unary operators, specifically incrementing. The [MDN docs on Increment(++)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment) did the best job explaining it for my brain. 
    - **postfix** returns the value _before_ doing the work
    - **prefix** returns the value _after_ doing the work.
