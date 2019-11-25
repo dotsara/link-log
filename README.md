@@ -6,6 +6,10 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2019
 
+### November
+
+* "No true Scotsman", an appeal to purity ([Wikipedia entry](https://en.wikipedia.org/wiki/No_true_Scotsman)). Stumbled across it in [a reply to Anil Dash by Jessica Price w/r/t who's labeled as "not real Christians", etc.](https://twitter.com/Delafina777/status/1198769656531570688) and to be fair: I understood it immediately because of the way Jessica used it (hooray for context). The fuller definitions and examples made looking it up worth it. 
+
 ### October
 
 * Difference(s) between `.forEach` and `.map` in Javascript. The crucial bit is this: `.forEach` doesn't return anything, `.map` returns a new array. They both let you do something to each item in an array, but only one gives back.
