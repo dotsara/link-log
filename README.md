@@ -6,6 +6,15 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 
 ## 2019
 
+### December
+
+* "precarity": came up in Jia Tolentio's Guardian article, ["Athleisure, barre and kale: the tyranny of the ideal woman"](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour) (2 August 2019), 
+   > But today, in an economy defined by precarity,…
+   - [From Wikipedia](https://en.wikipedia.org/wiki/Precarity): Precarity is a precarious existence, lacking in predictability, job security, material or psychological welfare. The social class defined by this condition has been termed the _precariat_. 
+   
+   Whew.
+   
+   
 ### November
 
 * "No true Scotsman", an appeal to purity ([Wikipedia entry](https://en.wikipedia.org/wiki/No_true_Scotsman)). Stumbled across it in [a reply to Anil Dash by Jessica Price w/r/t who's labeled as "not real Christians", etc.](https://twitter.com/Delafina777/status/1198769656531570688) and to be fair: I understood it immediately because of the way Jessica used it (hooray for context). The fuller definitions and examples made looking it up worth it. 
