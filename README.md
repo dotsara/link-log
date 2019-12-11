@@ -11,8 +11,7 @@ I look stuff up all the time for lots of different reasons. I'm going to try to 
 * "precarity": came up in Jia Tolentio's Guardian article, ["Athleisure, barre and kale: the tyranny of the ideal woman"](https://www.theguardian.com/news/2019/aug/02/athleisure-barre-kale-tyranny-ideal-woman-labour) (2 August 2019), 
    > But today, in an economy defined by precarity,…
    - [From Wikipedia](https://en.wikipedia.org/wiki/Precarity): Precarity is a precarious existence, lacking in predictability, job security, material or psychological welfare. The social class defined by this condition has been termed the _precariat_. 
-   
-   Whew.
+      * Naturally(!), the word showed up again 2 hours later, this time in Anil Dash's ["'Link in Bio' is a slow knife"](https://anildash.com/2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/)
    
    
 ### November
