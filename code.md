@@ -1,6 +1,4 @@
 # Code-related stuff I looked up, figured out, want to remember
-
-# Things I want to remember
 (Or at least be able to find again)
 
 ## 11-Sep-2019, Wednesday, 08:25
