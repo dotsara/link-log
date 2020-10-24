@@ -1,8 +1,14 @@
 # Stuff I looked up this month
 
-I look stuff up all the time for lots of different reasons. I'm going to try to keep track of it. ([code-related stuff](code.md))
+I look up stuff all the time, for lots of reasons and even more frequently come across good stuff, here is where I try to keep track of it. ([code-related stuff](code.md))
 
-<!-- dates are Sunday to Saturday -->
+## 2020
+
+What _haven't_ I looked up this year. That said, I haven't been attentive to documenting it here. Let's try to get back on track.
+
+### October
+
+* Via [The Morning News](), ["How America Invented the White Woman Who Just Loves Fall"](https://theattic.jezebel.com/how-america-invented-the-white-woman-who-just-loves-fal-1845301546), by [Hazel Cills](https://twitter.com/hazelcills). The opening third of this piece is a pretty decent primer on how we've ended up with Thanksgiving the way it is in the States (I don't often see all of this collected together).
 
 ## 2019
 
