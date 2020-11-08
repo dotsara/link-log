@@ -6,6 +6,12 @@ I look up stuff all the time, for lots of reasons and even more frequently come 
 
 What _haven't_ I looked up this year. That said, I haven't been attentive to documenting it here. Let's try to get back on track.
 
+### November
+
+* [Flowers for Yellow Chins, Bruised Eyes, Forsaken Nymphs, and Impending Death](https://www.theparisreview.org/blog/2019/04/10/flowers-for-yellow-chins-bruised-eyes-forsaken-nymphs-and-impending-death/) by [Katy Kelleher](https://twitter.com/KatyKelleher) at [_The Paris Review_](https://www.theparisreview.org), via [Jamie Beck](https://instagram.com/jamiebeckco).
+
+   > Still lifes began to really pick up steam in the sixteenth and seventeenth centuries, and many of these pieces included wilting or fading flowers in their compositions. Wilted flowers could represent a lot of things, depending on the species chosen, but often these overflowing vases served as reminders that, well, we all fall down. Even pretty flowers grow bruised and brown, and no matter how much wealth you accumulate in life, you’ll still die alone. We all do.
+
 ### October
 
 * Via [The Morning News](), ["How America Invented the White Woman Who Just Loves Fall"](https://theattic.jezebel.com/how-america-invented-the-white-woman-who-just-loves-fal-1845301546), by [Hazel Cills](https://twitter.com/hazelcills). The opening third of this piece is a pretty decent primer on how we've ended up with Thanksgiving the way it is in the States (I don't often see all of this collected together).
