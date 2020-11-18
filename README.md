@@ -8,6 +8,9 @@ What _haven't_ I looked up this year. That said, I haven't been attentive to doc
 
 ### November
 
+* Okay, while perusing my RSS reader (yes, really!), I stumbled across [How do you write simple explanations without sounding condescending?](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/) by [Julia Evans](https://twitter.com/b0rk).
+   - within her article (which is good!), I found DNS Simple's [How DNS works](https://howdns.works/) comic (story?) and it is delightful
+   - I _also_ found a Master's thesis titled: [“I’m supposed to relate to this?”A Trans Woman On Issues Of Identification With Trans Moving Images](https://ruor.uottawa.ca/bitstream/10393/32929/1/Clayman_Valerie_2015_thesis.pdf) by Valérie Robin Clayman
 * [Flowers for Yellow Chins, Bruised Eyes, Forsaken Nymphs, and Impending Death](https://www.theparisreview.org/blog/2019/04/10/flowers-for-yellow-chins-bruised-eyes-forsaken-nymphs-and-impending-death/) by [Katy Kelleher](https://twitter.com/KatyKelleher) at [_The Paris Review_](https://www.theparisreview.org), via [Jamie Beck](https://instagram.com/jamiebeckco).
 
    > Still lifes began to really pick up steam in the sixteenth and seventeenth centuries, and many of these pieces included wilting or fading flowers in their compositions. Wilted flowers could represent a lot of things, depending on the species chosen, but often these overflowing vases served as reminders that, well, we all fall down. Even pretty flowers grow bruised and brown, and no matter how much wealth you accumulate in life, you’ll still die alone. We all do.
