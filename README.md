@@ -8,6 +8,7 @@ What _haven't_ I looked up this year. That said, I haven't been attentive to doc
 
 ### November
 
+* I read ["The Promise That Tested My Parents Until The End](https://www.gq.com/story/the-promise-that-tested-my-parents-until-the-end) by [Chris Solomon]() and then clicked over to his Twitter profile and stumbled across [a thread about cinnamon](https://twitter.com/ferrisjabr/status/1331313191129792512) by [Ferris Jabr](https://twitter.com/ferrisjabr/). So cool!
 * Okay, while perusing my RSS reader (yes, really!), I stumbled across [How do you write simple explanations without sounding condescending?](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/) by [Julia Evans](https://twitter.com/b0rk).
    - within her article (which is good!), I found DNS Simple's [How DNS works](https://howdns.works/) comic (story?) and it is delightful
    - I _also_ found a Master's thesis titled: [“I’m supposed to relate to this?”A Trans Woman On Issues Of Identification With Trans Moving Images](https://ruor.uottawa.ca/bitstream/10393/32929/1/Clayman_Valerie_2015_thesis.pdf) by Valérie Robin Clayman
