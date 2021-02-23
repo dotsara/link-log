@@ -1,6 +1,18 @@
 # Code-related stuff I looked up, figured out, want to remember
 (Or at least be able to find again)
 
+## 23-Feb-2021, Tuesday, 09:15
+
+Securely signing git commits!
+
+All my commits for work are signed with my work email address, but when I wanted to update another work-repo with that I didn't copy over the `signingkey` key. 🤦🏽‍♀️ As a result, when I ran `git commit -m "message"` it failed! My first thought was, "oh, copy over the `signingkey`, silly." But then trouble! I second-guessed myself and thought I only needed to restart the machine (b/c I have the authentication set to expire upon restarts). 
+
+Well, that didn't work, of course. Copied over the `signingkey` and… it worked exactly as expected. 
+
+Now, I know!
+
+**Category:** git, gpg
+
 ## 11-Sep-2019, Wednesday, 08:25
 
 From Chris:
