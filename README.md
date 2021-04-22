@@ -2,6 +2,13 @@
 
 I look up stuff all the time, for lots of reasons and even more frequently come across good stuff, here is where I try to keep track of it. ([code-related stuff](code.md))
 
+## 2021
+
+## April
+
+* ["#SayHerName: why Kimberlé Crenshaw is fighting for forgotten women"](https://www.theguardian.com/lifeandstyle/2016/may/30/sayhername-why-kimberle-crenshaw-is-fighting-for-forgotten-women) (from May 2016)
+
+
 ## 2020
 
 What _haven't_ I looked up this year. That said, I haven't been attentive to documenting it here. Let's try to get back on track.
