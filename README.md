@@ -6,6 +6,8 @@ I look up stuff all the time, for lots of reasons and even more frequently come 
 
 ## April
 
+* [Review: A Promising Young Woman by Ayesha A. Siddiqi](https://ayeshaasiddiqi.substack.com/p/id-like-this-to-stop-praise-for-a)
+   > Spoilers included to protect people from the experience of watching a terrible movie. (content warning: sexual violence against women)
 * ["#SayHerName: why Kimberlé Crenshaw is fighting for forgotten women"](https://www.theguardian.com/lifeandstyle/2016/may/30/sayhername-why-kimberle-crenshaw-is-fighting-for-forgotten-women) (from May 2016)
 
 
