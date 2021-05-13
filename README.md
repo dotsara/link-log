@@ -1,8 +1,13 @@
 # Stuff I looked up this month
 
-I look up stuff all the time, for lots of reasons and even more frequently come across good stuff, here is where I try to keep track of it. ([code-related stuff](code.md))
+Looked up or came across. ([code-related stuff](code.md))
 
 ## 2021
+
+## May 
+
+* [Fuck Your Lecture on Craft, My People are Dying](https://www.poetryfoundation.org/poetrymagazine/poems/154658/fuck-your-lecture-on-craft-my-people-are-dying) by Noor Hindi (via [stacy marie-ishmael's newsletter](https://newsletter.galavantmedia.org/))
+
 
 ## April
 
