@@ -7,7 +7,7 @@ Looked up or came across. ([code-related stuff](code.md))
 ## May 
 
 * [Fuck Your Lecture on Craft, My People are Dying](https://www.poetryfoundation.org/poetrymagazine/poems/154658/fuck-your-lecture-on-craft-my-people-are-dying) by Noor Hindi (via [stacy marie-ishmael's newsletter](https://newsletter.galavantmedia.org/))
-
+* [Twitter thread on how creepy ads get served to you these days](https://twitter.com/RobertGReeve/status/1397032784703655938) from [@RobertRGreeve](https://twitter.com/RobertGReeve)
 
 ## April
 
