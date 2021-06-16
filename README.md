@@ -4,12 +4,17 @@ Looked up or came across. ([code-related stuff](code.md))
 
 ## 2021
 
-## May 
+### June
+
+* [Is Juneteenth for Everybody?](https://theremix.substack.com/p/is-juneteenth-for-everybody) via Eve Ewing's Instagram Stories.
+
+
+### May 
 
 * [Fuck Your Lecture on Craft, My People are Dying](https://www.poetryfoundation.org/poetrymagazine/poems/154658/fuck-your-lecture-on-craft-my-people-are-dying) by Noor Hindi (via [stacy marie-ishmael's newsletter](https://newsletter.galavantmedia.org/))
 * [Twitter thread on how creepy ads get served to you these days](https://twitter.com/RobertGReeve/status/1397032784703655938) from [@RobertRGreeve](https://twitter.com/RobertGReeve)
 
-## April
+### April
 
 * [Review: A Promising Young Woman by Ayesha A. Siddiqi](https://ayeshaasiddiqi.substack.com/p/id-like-this-to-stop-praise-for-a)
    > Spoilers included to protect people from the experience of watching a terrible movie. (content warning: sexual violence against women)
