@@ -6,6 +6,7 @@ Looked up or came across. ([code-related stuff](code.md))
 
 ### June
 
+* [Five Pioneering Black Ballerinas: 'We Have a Voice'](https://www.nytimes.com/2021/06/17/arts/dance/dance-theater-of-harlem-pioneers.html)
 * [Dawn Staley Doesn't Care What You Think](https://www.gq.com/story/dawn-staley-womens-basketball-tokyo-olympics) by [Tyler R. Tynes](https://twitter.com/TylerRickyTynes/) for _GQ_ (via [Gene Demby RT](https://twitter.com/TylerRickyTynes/status/1405181167234654209))
 * [Is Juneteenth for Everybody?](https://theremix.substack.com/p/is-juneteenth-for-everybody) via Eve Ewing's Instagram Stories.
 
