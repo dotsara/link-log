@@ -4,6 +4,11 @@ Looked up or came across. ([code-related stuff](code.md))
 
 ## 2021
 
+### July
+
+* [A very good thread on Nikole Hannah-Jones taking a position at Howard instead of UNC-CH J-School](https://twitter.com/JoekillianPW/status/1412388863985819653) via [@tiffehr](https://twitter.com/tiffehr)
+
+
 ### June
 
 * [Five Pioneering Black Ballerinas: 'We Have a Voice'](https://www.nytimes.com/2021/06/17/arts/dance/dance-theater-of-harlem-pioneers.html)
