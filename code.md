@@ -1,5 +1,5 @@
-# Code-related stuff I looked up, figured out, want to remember
-(Or at least be able to find again)
+# Code-related things
+
 
 ## 23-Feb-2021, Tuesday, 09:15
 
