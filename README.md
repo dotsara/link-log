@@ -1,6 +1,4 @@
-# Stuff I looked up this month
-
-Looked up or came across. ([code-related stuff](code.md))
+Information I've recently looked up or come across. ([code-related stuff](code.md))
 
 ## 2021
 
