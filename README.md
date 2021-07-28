@@ -6,6 +6,7 @@ Looked up or came across. ([code-related stuff](code.md))
 
 ### July
 
+* [The Void That Critical Race Theory Was Created to Fill](https://www.newyorker.com/culture/cultural-comment/the-void-that-critical-race-theory-was-created-to-fill) by [Lauren Michele Jackson](https://twitter.com/proseb4bros) for _The New Yorker_
 * [Twenty-Five Years Later](https://tinyletter.com/metafoundry/letters/metafoundry-17-twenty-five-years-later) a newsletter from [Deb Chachra](https://twitter.com/debcha) on the 06 Dec 1989 massacre at École Polytechnique in Montreal ([linked by Stacy-Marie Ishmael](https://twitter.com/s_m_i/status/1417938132603920388))
 * [A very good thread on Nikole Hannah-Jones taking a position at Howard instead of UNC-CH J-School](https://twitter.com/JoekillianPW/status/1412388863985819653) via [@tiffehr](https://twitter.com/tiffehr)
 
