@@ -1,5 +1,19 @@
 # Code-related things
 
+## 05-Aug-2021, Thursday, 15:37
+
+What files are in this `stash`? 
+
+I make _heavy_ use of `git stash save "[message]"` and today while spinning a few plates, I was mixed up about what was in one stash vs. another. But I couldn't remember how to see which files were in a stash, nor what changes I'd made _in_ that stash. So. (
+
+```
+to see which files are in the stash:
+$ git stash show --name-only stash@{1}
+
+to see the changes in the stash:
+$ git stash show -p stash@{4}
+```
+**Category:** git, stash
 
 ## 23-Feb-2021, Tuesday, 09:15
 
