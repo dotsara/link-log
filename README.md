@@ -4,7 +4,7 @@ Information I've recently looked up or come across. ([code-related stuff](code.m
 
 ### August
 
-* [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+* [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc) by [Simon Andrews](https://twitter.com/simon360)
 
 
 ### July
