@@ -2,6 +2,11 @@ Information I've recently looked up or come across. ([code-related stuff](code.m
 
 ## 2021
 
+### August
+
+* [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc)
+
+
 ### July
 
 * [The Void That Critical Race Theory Was Created to Fill](https://www.newyorker.com/culture/cultural-comment/the-void-that-critical-race-theory-was-created-to-fill) by [Lauren Michele Jackson](https://twitter.com/proseb4bros) for _The New Yorker_
