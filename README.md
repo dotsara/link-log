@@ -4,6 +4,8 @@ Information I've recently looked up or come across. ([code-related stuff](code.m
 
 ### August
 
+* [Mediocrity as patriarchal investment, as investment into whiteness](https://www.tiktok.com/@notwildlin/video/6999739263390813445?is_copy_url=1&is_from_webapp=v1) on TikTok via RTs from Tressie McMillan Cottom of [a 2-tweet thread](https://twitter.com/wagatwe/status/1430210408816594947)
+   - 🔥 
 * [I figured out how DMARC works, and it almost broke me](https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc) by [Simon Andrews](https://twitter.com/simon360)
 
 
