@@ -2,6 +2,11 @@ Information I've recently looked up or come across. ([code-related stuff](code.m
 
 ## 2021
 
+## September
+
+* [The key passage in the newly-released CAS report in the Shelby Houlihan case](https://twitter.com/RunninReed/status/1433073165769478145): woosh.
+
+
 ### August
 
 * [Mediocrity as patriarchal investment, as investment into whiteness](https://www.tiktok.com/@notwildlin/video/6999739263390813445?is_copy_url=1&is_from_webapp=v1) on TikTok via RTs from Tressie McMillan Cottom of [a 2-tweet thread](https://twitter.com/wagatwe/status/1430210408816594947)
