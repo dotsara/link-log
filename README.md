@@ -1,4 +1,8 @@
-Information I've recently looked up or come across. ([code-related stuff](code.md))
+Information I've recently looked up or come across.
+
+See also:
+* [code-related](code.md)
+* [useful vocabulary](vocabulary.md)
 
 ## 2021
 
