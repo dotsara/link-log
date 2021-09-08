@@ -1,4 +1,7 @@
-# Code-related things
+# Code-related things!
+
+[&larr; back to the main log](README.md)
+
 
 ## 05-Aug-2021, Thursday, 15:37
 
