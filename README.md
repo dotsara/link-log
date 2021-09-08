@@ -130,37 +130,14 @@ What _haven't_ I looked up this year. That said, I haven't been attentive to doc
    
 ### 04-10 February
 
-* My friend [Tiff](https://twitter.com/tifferh) has a tradition of keeping us updated on the comings and goings of the booze cruise and cruise ship traffic when she's with her family in Mexico. 
+* My friend [Tiff](https://twitter.com/tiffehr) has a tradition of keeping us updated on the comings and goings of the booze cruise and cruise ship traffic when she's with her family in Mexico. 
    - [staysails](https://en.wikipedia.org/wiki/Staysail)
    - mizzencourse: the lowest sail on the [mizzenmast](https://en.wiktionary.org/wiki/mizzenmast) (obviously!) 
 * segfaults, or [segmentation faults](https://en.wikipedia.org/wiki/Segmentation_fault), or When Things Go Terribly Wrong
-
-
    I hang out in our `#tech-ops` channel at work because tech ops is not my purview, but Ben always provides lots of detail for historical record which turns out to be super useful for someone like me who likes to look things up. 🤓
    
 ## 2017
 
-### 27 November-02 December
-
-* Nope! I was pretty wrong last week with my conclusions about how the `NodeList` was being used and that business about `item`. It hadn't clicked--until this week, watching the _rest_ of the exercises video where Wes walks through the solutions--that the way the chained methods are working is they're taking what all the arrow functions automatically return as their input and declaring variable names for them as they go. 
-
-
-   I mean, it seems pretty obvious when I say it like that. I understand how chained methods work, but I _wasn't_ thinking of this that way on my first trip through. Oof. 
-   
-   Well, I learned some stuff then and now. So. 
-
-
-### 20-26 November
-
-* I'm working through the [ES6 for Everyone](https://github.com/wesbos/es6.io) course and in the answer file for the first exercise, it shows `Array.from(document.querySelectorAll('[data-time]'));`
-   - first up, `Array.from`--I think this might be the first time I'm seeing it? From MDN: "[The `Array.from()` method creates a new `Array` instance from an array-like or iterable object.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)). Cool! pass it a thing, get an array. Got it. 
-      * interestingly, my first pass at the same line was: `const videos = document.getElementsByTagName('li');` hilariously (to me), both return the exact same array-of-objects. Ha!
-   - next up… all the stuff available to `document`. I… I just don't know all these off the top of my head. We've been using [RubyMine](https://www.jetbrains.com/ruby/) at work, lately, and with all the hinting things turned on it's much less painful to find what's available, I like it. That said, I haven't seen `querySelectorAll` before!
-      * Oohhhh, so my version and the answer version aren't, in fact, returning the same array of objects. They just _look_ the same in Chrome's console. What the answer is returning is a `NodeList` ([MDN details](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)) and _actually_! seeing that `item` is a thing that you get with a `NodeList` helps me understand code further down in the answer file where it's using `item`.
-         - I was super confused about the use of `item` because it hadn't been defined or instantiated and it looked like the singular thing you'd use in a loop, but where it's used doesn't _look_ like a loop *and* the thing (`const`) we're working on is called `items`. So 🤔. But now I think I got it. Woo!
-      * So I see why you'd use what's in the answer file: because you want what's available to a `NodeList`. Cool. 
-      * [Using querySelector on Elements](https://developer.rackspace.com/blog/using-querySelector-on-elements/): I'm… probably going to have to read that & mess around with it a few times. 
-   - oh, also, I was wondering about where `item.dataset` comes from, but `data` set is just the collection of `data-` prefixed attributes on elements. Neat! I didn't realize they would get rolled up that way, but that's handy.
   
 ### 13-19 November
 
@@ -209,6 +186,9 @@ What _haven't_ I looked up this year. That said, I haven't been attentive to doc
 * Who in the world would ban _Green Eggs and Ham_!?
 
    Oh, China did it: [Banned Books Week: Green Eggs and Ham](https://www.nypl.org/blog/2013/09/24/banned-books-week-green-eggs-and-ham)
+   - _ETA in 2021:_ 
+      * The NYPL link is dead, but I did find: https://www.reddit.com/r/AskHistorians/comments/63ml6j/why_was_green_eggs_and_ham_banned_in_china/
+      * Also found at the NYT (with a title that makes my teeth itch): [Dr. Seuss Books Are Pulled, and a ‘Cancel Culture’ Controversy Erupts](https://www.nytimes.com/2021/03/04/books/dr-seuss-books.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohkS1UbBybfWt8ktVqKn73UzaEnnTr0Ky-WUnBC0-ERScCmynv6WJBCNZE1zijJA5hIKqMuT_h_ieMHM0Y8EwCm55Hax8VAfitr98e6Dz49msuRULtnoWa3PzG3Ja033rCwvjOqYmfuXa3b03AnNVwl9cMjLQf2rCROkqTVEed12s181eMjD_15TDQCbSqIupr4Gkk0eYXGPlyHtF5AC6wOUirTnNWf97sLbA5SbFrMR3p16m87g8hO0_NJ9ga93c2kBhH9dmjQCA&smid=url-share) 
 * What _is_ happening when your ears "pop"? 
 
    A-ha! [Pressure equalization](https://gizmodo.com/why-your-ears-pop-and-what-to-do-if-they-dont-505598950), that makes sense.
@@ -223,7 +203,6 @@ What _haven't_ I looked up this year. That said, I haven't been attentive to doc
 
 ### 28 August-03 September
 
-_Cross-country season is back in full-swing, so my available brain power to remember to look up random things is rather diminished._
 
 * **starboard**, _n._ I know _that_ it's the right side (facing forward) of a ship, but I was always forgetting to look up the why.
 
@@ -233,13 +212,12 @@ _Cross-country season is back in full-swing, so my available brain power to reme
 
 ### 21-27 August
 
-_A bit of a light week because cross-country season started and now occupies a significant portion of my brain_
 
 * [portage](https://www.merriam-webster.com/dictionary/portage): _noun_ "the carrying of boats or goods overland from one body of water to another or around an obstacle (such as a rapids)" [Lori's post about an upcoming trip](https://www.instagram.com/p/BYJbDfOHsXf/?taken-by=theoriginal10cent) got me to look it up because I've never heard it in this context before. Neato! (We have Portage Bay in Seattle, but I never looked it up!) 🚣‍♀️
 
 ### 14-20 August
 
-* I was telling [Jason](@jgarber623) about the occasional game of 6 Degrees of [Ciarán Hinds](http://www.imdb.com/name/nm0001354/) that @tiffehr and I sometimes play. And he challenged me to go from Hinds to… **Carrot Top**. Honestly, I wasn't sure I'd be able to do it. But 5 minutes later… 😎
+* I was telling Jason about the occasional game of 6 Degrees of [Ciarán Hinds](http://www.imdb.com/name/nm0001354/) that @tiffehr and I sometimes play. And he challenged me to go from Hinds to… **Carrot Top**. Honestly, I wasn't sure I'd be able to do it. But 5 minutes later… 😎
 
    Carrot Top _The Aristocrats_ > Chris Rock _The Fresh Prince of Bel Air_ > Will Smith _Wild, Wild West_ > Kenneth Branagh _half the movies in his career_ > Emma Thompson _Harry Potter & the Deathly Hallows_ > Ciarán Hinds
    
