@@ -6,6 +6,11 @@ See also:
 
 ## 2021
 
+## October
+
+* Another Twitter thread! I know. [This one from an intensive care doc with a clinical run-down of the (a?) typical dying-from-Covid-19 process](https://twitter.com/drdagly/status/1443577158023073796?s=12)
+
+
 ## September
 
 * [A short Twitter thread re: design orgs inside companies](https://twitter.com/stuartfrisby/status/1440585160756371463?s=12)
