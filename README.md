@@ -6,6 +6,11 @@ See also:
 
 ## 2021
 
+## December
+
+* [Here's Why Movie Dialogue Has Gotten More Difficult To Understand (And Three Ways To Fix It)](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)
+
+
 ## October
 
 * Another Twitter thread! I know. [This one from an intensive care doc with a clinical run-down of the (a?) typical dying-from-Covid-19 process](https://twitter.com/drdagly/status/1443577158023073796?s=12)
