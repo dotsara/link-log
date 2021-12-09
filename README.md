@@ -8,6 +8,7 @@ See also:
 
 ## December
 
+* [Yankee Candle's Stages of Abstraction](https://mobile.twitter.com/UndeniablyAlex/status/1468555202986917892), a Twitter thread
 * [Jamelle Bouie twitter thread considering how a Black Batman might work](https://twitter.com/jbouie/status/1091354524206415872)
    - This is from ages ago (2019) but it came up recently in conversation, so I'm saving the link here. 
 * [Here's Why Movie Dialogue Has Gotten More Difficult To Understand (And Three Ways To Fix It)](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)
