@@ -8,6 +8,7 @@ See also:
 
 ## December
 
+* [The Lemon Space](https://griefbacon.substack.com/p/the-lemon-space), RT'd by Meg
 * [Yankee Candle's Stages of Abstraction](https://mobile.twitter.com/UndeniablyAlex/status/1468555202986917892), a Twitter thread
 * [Jamelle Bouie twitter thread considering how a Black Batman might work](https://twitter.com/jbouie/status/1091354524206415872)
    - This is from ages ago (2019) but it came up recently in conversation, so I'm saving the link here. 
