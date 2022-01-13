@@ -3,6 +3,18 @@
 [&larr; back to the main log](README.md)
 
 
+## 13-Jan-2022, Thursday, 11:01
+
+In pursuit of exorcising rogue `em` units in our code base, I started just looking for `em;` (in VS Code) which meant having to sort through all the `rem;` results. It's fine, but I went on over to https://regexr.com and built this!
+
+```
+([0-9])em+
+```
+
+And hit the "Use Regular Expression" option in VS Code. Voilà! 🎉
+
+**Category:** regex
+
 ## 05-Aug-2021, Thursday, 15:37
 
 What files are in this `stash`? 
