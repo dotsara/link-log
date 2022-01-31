@@ -4,6 +4,13 @@ See also:
 * [code-related](code.md)
 * [useful vocabulary](vocabulary.md)
 
+## 2022
+
+## January
+
+* Great thread--from Danielle with very good quote-tweets--on the topic of saying no (specifically at work, but maybe not exclusively): https://twitter.com/tsunamino/status/1488161506566934528
+
+
 ## 2021
 
 ## December
