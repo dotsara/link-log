@@ -2,6 +2,15 @@
 
 [&larr; back to the main log](README.md)
 
+Mostly what's below are code snippets and commands, but I'm starting to include (Feb '22) UI/UX things, as well.
+
+## 04-Feb-2022, Friday, 09:52
+
+From Rob Weychert, [Inside ProPublica's Article Layout Framework](https://www.propublica.org/article/inside-propublicas-article-layout-framework). 
+
+The repetition of multiple viewports as the layout options and desires are describe is useful here; there will always be surprises, but seeing breakpoints in your head as you write code is a skill worth honing.
+
+**Category:** UI, frameworks
 
 ## 13-Jan-2022, Thursday, 11:01
 
