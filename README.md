@@ -6,6 +6,11 @@ See also:
 
 ## 2022
 
+## February
+
+* [This is (Almost) 95: Retired Engineer Derrick Ratcliffe Responds to The Oldster Magazine Questionnaire](https://oldster.substack.com/p/this-is-almost-95-retired-engineer) (via Casey Johnston's excellent [She's a Beast: A Swole Woman's newsletter](https://www.shesabeast.co/p/whos-afraid-of-a-cookie-cutter-workout)
+
+
 ## January
 
 * Great thread--from Danielle with very good quote-tweets--on the topic of saying no (specifically at work, but maybe not exclusively): https://twitter.com/tsunamino/status/1488161506566934528
