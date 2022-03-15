@@ -6,6 +6,11 @@ See also:
 
 ## 2022
 
+## March
+
+* [The Fat Gold Guide to Extra Virgin Olive Oil](https://fat.gold/guide/) from Robin Sloan. This is so great! I love a single-document guide with lots of internal links _and_ navigation. 😍
+
+
 ## February
 
 * [This is (Almost) 95: Retired Engineer Derrick Ratcliffe Responds to The Oldster Magazine Questionnaire](https://oldster.substack.com/p/this-is-almost-95-retired-engineer) (via Casey Johnston's excellent [She's a Beast: A Swole Woman's newsletter](https://www.shesabeast.co/p/whos-afraid-of-a-cookie-cutter-workout)
