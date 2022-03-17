@@ -3,6 +3,7 @@ Information I've recently looked up or come across.
 See also:
 * [code-related](code.md)
 * [useful vocabulary](vocabulary.md)
+* [reference!](reference.md)
 
 ## 2022
 
