@@ -8,6 +8,7 @@ See also:
 
 ## March
 
+* [A Twitter thread from Nguyen Tan Thai Hung on collisions resulting from the presentation-variation of Southeast Asian names and Anglo-centric systems that assume (require, force) 1 specific presentation](https://twitter.com/Hung_TT_Nguyen/status/1503936865916919813)
 * [The Fat Gold Guide to Extra Virgin Olive Oil](https://fat.gold/guide/) from Robin Sloan. This is so great! I love a single-document guide with lots of internal links _and_ navigation. 😍
 
 
