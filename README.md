@@ -7,6 +7,11 @@ See also:
 
 ## 2022
 
+## June
+
+* [Twitter thread reimagining Batman](https://twitter.com/storyslug/status/1297996912822493196): from 2020, but it just came up in a group thread today and could work, I think, really well with [Jamelle Bouie's re-imagined Black Batman](https://twitter.com/jbouie/status/1091354524206415872) ([linked back in December](https://toolbox.dotsara.com/link-log/#december))
+
+
 ## March
 
 * [Twitter thread on updated guidance from the DOJ, re: web accessibility](https://twitter.com/a_h_reaume/status/1507388640959205380)
