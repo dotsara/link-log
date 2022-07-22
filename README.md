@@ -7,6 +7,10 @@ See also:
 
 ## 2022
 
+## July 
+
+* [Twitter thread on a Marketplace piece about the Internet Archive suit](https://twitter.com/kidsilkhaze/status/1550170005433729024)
+
 ## June
 
 * [Twitter thread reimagining Batman](https://twitter.com/storyslug/status/1297996912822493196): from 2020, but it just came up in a group thread today and could work, I think, really well with [Jamelle Bouie's re-imagined Black Batman](https://twitter.com/jbouie/status/1091354524206415872) ([linked back in December](https://toolbox.dotsara.com/link-log/#december))
