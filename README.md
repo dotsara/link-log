@@ -7,6 +7,10 @@ See also:
 
 ## 2022
 
+## December
+
+* [The World Cup of Excel](https://archive.ph/aA0en) (from _The Atlantic_)
+
 ## July 
 
 * [Twitter thread on a Marketplace piece about the Internet Archive suit](https://twitter.com/kidsilkhaze/status/1550170005433729024)
