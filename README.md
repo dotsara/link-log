@@ -14,39 +14,39 @@ See also:
 
 ## 2022
 
-## December
+### December
 
 * [The World Cup of Excel](https://archive.ph/aA0en) (from _The Atlantic_)
 
-## July 
+### July 
 
 * [Twitter thread on a Marketplace piece about the Internet Archive suit](https://twitter.com/kidsilkhaze/status/1550170005433729024)
 
-## June
+### June
 
 * [Twitter thread reimagining Batman](https://twitter.com/storyslug/status/1297996912822493196): from 2020, but it just came up in a group thread today and could work, I think, really well with [Jamelle Bouie's re-imagined Black Batman](https://twitter.com/jbouie/status/1091354524206415872) ([linked back in December](https://toolbox.dotsara.com/link-log/#december))
 
 
-## March
+### March
 
 * [Twitter thread on updated guidance from the DOJ, re: web accessibility](https://twitter.com/a_h_reaume/status/1507388640959205380)
 * [A Twitter thread from Nguyen Tan Thai Hung on collisions resulting from the presentation-variation of Southeast Asian names and Anglo-centric systems that assume (require, force) 1 specific presentation](https://twitter.com/Hung_TT_Nguyen/status/1503936865916919813)
 * [The Fat Gold Guide to Extra Virgin Olive Oil](https://fat.gold/guide/) from Robin Sloan. This is so great! I love a single-document guide with lots of internal links _and_ navigation. 😍
 
 
-## February
+### February
 
 * [This is (Almost) 95: Retired Engineer Derrick Ratcliffe Responds to The Oldster Magazine Questionnaire](https://oldster.substack.com/p/this-is-almost-95-retired-engineer) (via Casey Johnston's excellent [She's a Beast: A Swole Woman's newsletter](https://www.shesabeast.co/p/whos-afraid-of-a-cookie-cutter-workout)
 
 
-## January
+### January
 
 * Great thread--from Danielle with very good quote-tweets--on the topic of saying no (specifically at work, but maybe not exclusively): https://twitter.com/tsunamino/status/1488161506566934528
 
 
 ## 2021
 
-## December
+### December
 
 * [The Lemon Space](https://griefbacon.substack.com/p/the-lemon-space), RT'd by Meg
 * [Yankee Candle's Stages of Abstraction](https://mobile.twitter.com/UndeniablyAlex/status/1468555202986917892), a Twitter thread
@@ -55,12 +55,12 @@ See also:
 * [Here's Why Movie Dialogue Has Gotten More Difficult To Understand (And Three Ways To Fix It)](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)
 
 
-## October
+### October
 
 * Another Twitter thread! I know. [This one from an intensive care doc with a clinical run-down of the (a?) typical dying-from-Covid-19 process](https://twitter.com/drdagly/status/1443577158023073796?s=12)
 
 
-## September
+### September
 
 * [A short Twitter thread re: design orgs inside companies](https://twitter.com/stuartfrisby/status/1440585160756371463?s=12)
 * [A short Twitter thread re: insufficient advice for new managers from Kate Bauer](https://twitter.com/imightbemary/status/1440380530277564421)
