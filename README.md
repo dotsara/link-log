@@ -5,6 +5,13 @@ See also:
 * [useful vocabulary](vocabulary.md)
 * [reference!](reference.md)
 
+## 2023
+
+### January
+
+* [Blond is more than just a hair color](https://www.nytimes.com/2023/01/19/opinion/the-enduring-invisible-power-of-blond.html) by Tressie McMillan Cottom
+   > When people have outsize emotional reactions to benign inquiries about their self-evident beliefs, it is often an indicator that status is doing invisible work. 
+
 ## 2022
 
 ## December
