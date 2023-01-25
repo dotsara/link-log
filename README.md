@@ -9,6 +9,8 @@ See also:
 
 ### January
 
+* [Layoff Brain](https://annehelen.substack.com/p/layoff-brain) from Anne Helen Petersen
+   > Denigrating younger generations’ higher expectations is just another way of saying you’ve internalized the understanding that you should have none …
 * [Blond is more than just a hair color](https://www.nytimes.com/2023/01/19/opinion/the-enduring-invisible-power-of-blond.html) by Tressie McMillan Cottom
    > When people have outsize emotional reactions to benign inquiries about their self-evident beliefs, it is often an indicator that status is doing invisible work. 
 
