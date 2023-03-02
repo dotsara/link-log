@@ -7,6 +7,11 @@ See also:
 
 ## 2023
 
+### March
+
+* Learned a new word! **footlamberts** from [Bad Projection is Ruining the Movie Theater Experience](https://www.vulture.com/2023/03/movie-theater-projector-amc-regal.html) from _Vulture_.
+   > a standard of brightness roughly equivalent to the amount of light that would be produced by 48 wax candles per square meter of screen space
+
 ### January
 
 * [Layoff Brain](https://annehelen.substack.com/p/layoff-brain) from Anne Helen Petersen
