@@ -1,6 +1,7 @@
 Information I've recently looked up or come across.
 
 See also:
+* [wikipedia tabs](wikipedia-tabs.md)
 * [code-related](code.md)
 * [useful vocabulary](vocabulary.md)
 * [reference!](reference.md)
