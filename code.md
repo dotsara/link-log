@@ -4,6 +4,14 @@
 
 Mostly what's below are code snippets and commands, but I'm starting to include (Feb '22) UI/UX things, as well.
 
+## 25-May-2026, Saturday
+
+In the process of converting [Pope Leo XIV's first encyclical letter](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) (because I am curious about his AI stance and it's 42,000 words long, so I'd rather read it on my ereader, so I'm converting it to an epub…), I found a bunch of empty links leftover from calibre's PDF-to-EPUB conversion. I don't want to delete the manually (there are 90+ instances…), so I found an example of a regex string for finding a URL and combined it with VS Code's Find/Replace that allows regex expressions:
+
+```
+<a href="(?:(?:https?|ftp):\/\/)?[\w/\-?=%.]+\.[\w/\-&?=%.]+"></a>
+```
+
 ## 04-Feb-2022, Friday, 09:52
 
 From Rob Weychert, [Inside ProPublica's Article Layout Framework](https://www.propublica.org/article/inside-propublicas-article-layout-framework). 
